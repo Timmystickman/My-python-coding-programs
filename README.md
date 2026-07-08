@@ -1,2 +1,1 @@
-# My-python-coding-programs
-These are my first python programs
+these are my first ever python real projects 
